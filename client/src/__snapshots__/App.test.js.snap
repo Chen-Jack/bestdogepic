@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImageUploader component Matches snapshot 1`] = `
+<div>
+  <h1>
+     Upload an Image! 
+  </h1>
+  <input
+    accept="image/*"
+    name="pic"
+    type="file"
+  />
+  <button
+    type="button"
+  >
+     Upload 
+  </button>
+</div>
+`;
